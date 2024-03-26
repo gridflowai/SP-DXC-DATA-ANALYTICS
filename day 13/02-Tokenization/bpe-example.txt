@@ -1,0 +1,2 @@
+After each merge, there could be three scenarios, the number of tokens decreases by one, remains the same or increases by one. 
+But in practice, as the number of merges increases, usually the number of tokens first increases then decreases.
